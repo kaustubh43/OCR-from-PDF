@@ -75,13 +75,20 @@ class Details:
             NC=self.text[self.text.find('No.of Ctrs')+11:self.text.find('Nature of Cargo')]
             NC.replace('\n\n','')
             
-        else:
-            pass
+        elif self.PDF_loc=="OCR_2.pdf":
+            f=open('output_file.txt','r')
+            print(self.text[self.text.find('Con Det')+8:self.text.find('Date')+5])
+            f.seek(self.text.find('Date')+5)
+            f.readline()
+            f.readline()
+            print(f.readline())
+            f.readline()
+            print(f.readline())
 
-
-
-test=Details('OCR_1.pdf')
-
+                  
+name="OCR_2.pdf"
+test=Details(name)
+    
     
 
 

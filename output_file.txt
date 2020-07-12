@@ -1,62 +1,54 @@
-" ae
-@
-2631183 COMMISSIONER OF CUSTOMS
-4 ee ICD THE THAR DRY PORT - SANAND a
-a e
-seee TRL corr
-> LEO Date; 21/02/2070 LEO th: Ile @
-Indian Customs EOI System (ICES)
-*% ICD THAR DRY PORT KAD] ROAD SAMAND AHMEDADAD 2
-Shipping Bill for Export oy
-» SB ‘ > ice es
-No : 1554509 / 20/02/2020 BRC Realisation Date : 36/11/2076
-CHA : ABFPTE3S4ECHOOL] MAFFICK LOGISTICS :
-5 Print Date : 21/02/2020 14:57 ; @
-This consignment wa 5 yxeming stots ?
-pore oe ae enemas het opened for physical examination by Custors »
-a Country of BL: US Port Of Ldg-Code ; INSAUS State of Origin : GUJARAT
-* EXPORTER DETAILS CONSIGHEE
-0391061565( ) BIN No. : AABCHOA7OGF TOOL
-SEKHANT INDUSTRIES PRIVATE LIMITED ALBAAD FEM USA,
-» Branch 76 10TH FL, SHEIVALI HIGH STREET ,NRANGIE PULLIAM
-KESHAV BAUG, VASTRAPUR, 1960 BAPHES STREET
-AHMEDABAD, GUJARAT. REIDSVILLE, NC 27329 TEL: 336-2¢9-9
-* - 380015 913
-UNITED STATES
-m Factory Sealed Address Details
-IEC :X Name 3X
-7 Port of Loading :IG) THAR DRY PORT KA Total Pkgs. : 2859
-Port of Discharge:Norfolk Loose pckts : &
-Gross wt(KGS) :12320.090 Net Wt(KGS) :16920.6000
-~ Country of Dest: :UNITED STATES No.of Ctrs. : 2
+» 2 a re) ®9o8@ g 39 §Y
 
-Nature of Cargo : C J ‘
-Marks and Nos.: ‘I WE, HEREBY, DECLARE THAT L/WE SHALL CLAIN THE BENEFITS, 4S ADHISSTELE, UNDER
-~ HAPTER 3 OF FTP’. “WE INTEND TO CLAIM REWARDS UNDER MERCHANDISE EXPORTS FROH IN
-‘ TA SCEHEHE (MEIS)" AS PER INY
-FOREX BANK ACC: 56255729235
-xy RSI Waiver No/Date: 1 = . /
-FOB VALUE (INR) : £2001597.27 F DBK+STR(INR):E26921.06 F
-Tot DEK(INR) £26621.06 F STR(INR):E6,00 F
+a
 
-> 4D, Code :6211929 | DBK Bank a/c No :59255729235
-I.F.S, Code : ALLAO211929. ST / Excise Regn. :
-GSTN ID :; 24AABCHO476612X GSTH Type : GSN
-» IGST Tax Value(INR) ; 0.00 IGST Amt Paid(INR) : 9.08
-INVOICE DETAILS Invoice 1/1
-Inv.val :2499678.72 IWR 35481.69 USD «FOB Yal :2091597.22 INR
-a Inv.no. :SEPL/EX/48/19-20 Inv Dt :20/92/2029
-Nat of Con :ECIFFCurr(iny):USD Exp Contract :4509225732
-Exchange rate:1. 09 (USD) = 70.450 (INR)
-» Rate Currency ae
-nsurance 9.00 USD . 79, \/
-Freagtts USD “7680.90 UiNal
-% discount: 0.00 0.00 8 T
-Commission: 9,00 §.05
-* Other Deductions:9,60 9.99
-Packing Charges: UD §.00
-Nature of payment: NA Period of Payment:
-bs Third Par:
-Y30F21 0221 RO
+ee e
+iN JAR'DRY PORLOMS
+
+. ST
+PORT SSANAND
+
+Fee ee
+900 BARNES STREET PE
+*1 9 2 2020022000084943 380000 aMFPECH2
+# M/S. SEKHANT INDUSTRIES PRIVATE LINITED
+10TH FL, SHIVALIK HIGH STREET, NR,
+
+AHMEDABAD 3800.
+* SIPL/EX/48/19-79 India 1s 20,
+File Type por Doc Ben Part Code 20/02/2020
+
+@ ALBAAD FEN USA,
+ANGIE PULLIAN
+REIDSVILLE
+
+$ 1900 BARNES STREET
+
+MAFFICK2 ,
+Vessel Name Voyage No,
+
+» *1O-5
+E Container Details F
+Con Det: CR No size Seal No. / Date
+
+TCLugsS0545 4G BOLT811929a0 /20-FEB-26
+
+FCuse82469 49 BOLTO1192975 «+ i"
+
+Self Sealed
+
+Total FOB Value «declared by Exporter for DEPB ITENS : %.e000 USp
+Total FOB Value declared by Exporter. for NON-DEPB ITEMS : 28411.6004 usp
+Customs accepted Total FOB value for DEPB ITEMS : 8.0080 UsD
+
+I/we declare that the Particulars given herein are true and correct
+Following is the list of Documents attached :
+
+Inv Item Agency Name f Document Name
+- - Invoices
+
+*( Page 3 of 4 }
+
+ 
 
 Scanned with CamScanner
