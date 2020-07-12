@@ -53,6 +53,7 @@ class Details:
         
     def display(self):
         if (self.PDF_loc=="OCR_1.pdf"):
+            print('Details of OCR_1')
             IEC=self.text[self.text.find('IEC')+3:self.text.find('Name')]
             print('IEC',IEC)
             POL=self.text[self.text.find('Port of Loading')+7:self.text.find('Total Pkgs')]
@@ -76,6 +77,7 @@ class Details:
             NC.replace('\n\n','')
             
         elif self.PDF_loc=="OCR_2.pdf":
+            print('Details of OCR_2')
             f=open('output_file.txt','r')
             print(self.text[self.text.find('Con Det')+8:self.text.find('Date')+5])
             f.seek(self.text.find('Date')+5)
@@ -85,11 +87,13 @@ class Details:
             f.readline()
             print(f.readline())
 
-                  
-name="OCR_2.pdf"
-test=Details(name)
-    
-    
+            
+o1=Details('OCR_1.pdf')
+print('\n\n\n')
+o2=Details('OCR_2.pdf')
+
+
+print('End with OCR project')
 
 
 
