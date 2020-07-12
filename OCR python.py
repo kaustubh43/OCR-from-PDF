@@ -39,7 +39,7 @@ for i in range(1,files+1):
 
     text=str(((pytesseract.image_to_string(Image.open(filename),lang='eng'))))
               
-    #text=text.replace('-\n','')
+    text=text.replace('-\n','')
 
     f.write(text)
 
