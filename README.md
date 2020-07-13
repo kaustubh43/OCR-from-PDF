@@ -1,6 +1,6 @@
 # Empezar-Project
  Optical Character Recognition
-
+P002 Document OCR
 
 Install Tesseract
 Install pdf2Image
